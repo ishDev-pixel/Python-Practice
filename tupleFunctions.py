@@ -1,0 +1,10 @@
+t=(6,3,1,4,7,10,9,8,2,5)
+
+print(t)
+print("length of the tuple is", len(t))
+print("maximum number in the tuple",max(t))
+print("minimum number in the tuple",min(t))
+print("sum of the tuple",sum(t))
+print("any positive number in the tuple:",any(t))
+print("all the number positive in the tuple:",all(t))
+print("sorted list",sorted(t))
